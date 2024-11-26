@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+}
+.cart-container {
+  background-color: #ffffff;
+  height: 500px;
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #0b69ff;
+  text-align: center;
+  margin: 10px;
+}
+.para {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #333333;
+  text-align: center;
+  margin: 5px;
+}
+.btn-1 {
+  background-color: #0b69ff;
+  height: 35px;
+  width: 120px;
+  padding: 5px;
+  color: #ffffff;
+  font-size: 5px;
+}
+.para-1 {
+  color: #0b69ff;
+  font-size: 25px;
+  font-weight: bold;
+}
